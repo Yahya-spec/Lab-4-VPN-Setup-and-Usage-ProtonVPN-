@@ -20,7 +20,7 @@ In this home lab, I will practice creating an Azure Virtual Machine (VM) and dow
   - Log into the VM using **Remote Desktop**.
   - Browse to [WhatIsMyIPAddress](https://whatismyipaddress.com/) within the VM and note the IP address in a text file.
 
-![image](https://github.com/user-attachments/assets/dd30f6a1-bc59-4562-8b3e-b016beaaa9d5)
+![r1](https://github.com/user-attachments/assets/5aefff8f-5e40-407e-b512-e37207de0396)
 
 ### 2. Sign up for ProtonVPN and test the VPN connection:
 - On your actual computer, sign up for the free version of Proton VPN at [ProtonVPN Signup](https://account.protonvpn.com/signup?plan=free&language=en).
@@ -29,7 +29,7 @@ In this home lab, I will practice creating an Azure Virtual Machine (VM) and dow
   - Browse to [WhatIsMyIPAddress](https://whatismyipaddress.com/) and note the new IP address.
 - Test browsing websites like **Google**, **Disney**, and/or **Amazon** to see if there are any differences based on the VPN's server location. For example, you may notice changes in the language or URL.
 
-![image](https://github.com/user-attachments/assets/77b0905f-116c-4126-a656-214df4903240)
+![r2](https://github.com/user-attachments/assets/85a0da92-213f-4f4d-a28a-8a5eabf4b07d)
 
 ---
 
